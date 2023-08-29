@@ -8,6 +8,8 @@
 - Repos 🔭
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=terraform-project)](https://github.com/stevymonkam/terraform-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=odoo)](https://github.com/stevymonkam/odoo)
+
 
 - Lang ✨
 
