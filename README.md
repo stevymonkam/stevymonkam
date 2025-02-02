@@ -8,7 +8,6 @@
 - Repos 🔭
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=terraform-project)](https://github.com/stevymonkam/terraform-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=notification-operation-bank-with-lamda-aws)](https://github.com/stevymonkam/notification-operation-bank-with-lamda-aws)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=odoo)](https://github.com/stevymonkam/odoo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Kubernetes-Deployment--AWS-Scalable-and-Secure-Infrastructure
 )](https://github.com/stevymonkam/Kubernetes-Deployment--AWS-Scalable-and-Secure-Infrastructure
