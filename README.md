@@ -14,6 +14,7 @@
 )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=angular-springboot-with-docker)](https://github.com/stevymonkam/angular-springboot-with-docker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=wordpress-with-kubernetes)](https://github.com/stevymonkam/wordpress-with-kubernetes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=notification-operation-bank-with-lamda-aws)](https://github.com/stevymonkam/notification-operation-bank-with-lamda-aws)
 
 
 
