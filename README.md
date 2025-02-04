@@ -3,12 +3,30 @@
 
 - Stats ⚡
 
-![Stevy Monkam GitHub stats](https://github-readme-stats.vercel.app/api?username=stevymonkam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff)
+![Stevy Monkam GitHub stats](https://github-readme-stats.vercel.app/api?username=stevymonkam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff)   
 
 - Repos 🔭
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=ecs-deplo-app-rds
 )](https://github.com/stevymonkam/ecs-deplo-app-rds
+)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Project-reseau-aws-transit-gateway
+)](https://github.com/stevymonkam/Project-reseau-aws-transit-gateway
+)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=migration-data-aws-ec2-rds
+)](https://github.com/stevymonkam/migration-data-aws-ec2-rds
+)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Gitlab-CICD-APP
+)](https://github.com/stevymonkam/Gitlab-CICD-APP
+)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Project-aws-full-CICD
+)](https://github.com/stevymonkam/Project-aws-full-CICD
+)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=docker-student-list-project
+)](https://github.com/stevymonkam/docker-student-list-project
 )
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=terraform-project)](https://github.com/stevymonkam/terraform-project)
