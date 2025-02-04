@@ -6,7 +6,11 @@
 ![Stevy Monkam GitHub stats](https://github-readme-stats.vercel.app/api?username=stevymonkam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff)
 
 - Repos 🔭
-  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=ecs-deplo-app-rds
+)](https://github.com/stevymonkam/ecs-deplo-app-rds
+)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=terraform-project)](https://github.com/stevymonkam/terraform-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=odoo)](https://github.com/stevymonkam/odoo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Kubernetes-Deployment--AWS-Scalable-and-Secure-Infrastructure
