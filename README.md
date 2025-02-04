@@ -40,6 +40,23 @@
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=ecs-deplo-app-rds)](https://github.com/stevymonkam/ecs-deplo-app-rds) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Project-reseau-aws-transit-gateway)](https://github.com/stevymonkam/Project-reseau-aws-transit-gateway)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=migration-data-aws-ec2-rds)](https://github.com/stevymonkam/migration-data-aws-ec2-rds) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Gitlab-CICD-APP)](https://github.com/stevymonkam/Gitlab-CICD-APP)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Project-aws-full-CICD)](https://github.com/stevymonkam/Project-aws-full-CICD) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=docker-student-list-project)](https://github.com/stevymonkam/docker-student-list-project)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=terraform-project)](https://github.com/stevymonkam/terraform-project) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=odoo)](https://github.com/stevymonkam/odoo)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Kubernetes-Deployment--AWS-Scalable-and-Secure-Infrastructure)](https://github.com/stevymonkam/Kubernetes-Deployment--AWS-Scalable-and-Secure-Infrastructure) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=angular-springboot-with-docker)](https://github.com/stevymonkam/angular-springboot-with-docker)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=wordpress-with-kubernetes)](https://github.com/stevymonkam/wordpress-with-kubernetes) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=notification-operation-bank-with-lamda-aws)](https://github.com/stevymonkam/notification-operation-bank-with-lamda-aws)  
+
+
+
+
+
+
 
 - Lang ✨
 
