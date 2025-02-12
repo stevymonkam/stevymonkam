@@ -8,7 +8,7 @@
 - Repos 🔭
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=ecs-deplo-app-rds)](https://github.com/stevymonkam/ecs-deplo-app-rds) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Project-reseau-aws-transit-gateway)](https://github.com/stevymonkam/Project-reseau-aws-transit-gateway)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=AWS-Architecture-for-Resilient-and-Highly-Available-Applications)](https://github.com/stevymonkam/AWS-Architecture-for-Resilient-and-Highly-Available-Applications) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Project-reseau-aws-transit-gateway)](https://github.com/stevymonkam/Project-reseau-aws-transit-gateway)  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=migration-data-aws-ec2-rds)](https://github.com/stevymonkam/migration-data-aws-ec2-rds) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Gitlab-CICD-APP)](https://github.com/stevymonkam/Gitlab-CICD-APP)  
 
