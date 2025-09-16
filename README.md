@@ -7,7 +7,7 @@
 
 - Repos 🔭
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=front-presentation)](https://github.com/stevymonkam/front-presentation) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=front-presentation)](https://github.com/stevymonkam/front-presentation) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Jenkins-Pipeline-GitOps-Angular-with-Argocd-on-kuberneter)](https://github.com/stevymonkam/Jenkins-Pipeline-GitOps-Angular-with-Argocd-on-kuberneter) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Jenkins-Pipeline-GitOps-Angular-with-Argocd-on-kuberneter)](https://github.com/stevymonkam/Jenkins-Pipeline-GitOps-Angular-with-Argocd-on-kuberneter) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=AWS-Architecture-for-Resilient-and-Highly-Available-Applications)](https://github.com/stevymonkam/AWS-Architecture-for-Resilient-and-Highly-Available-Applications) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevymonkam&repo=Project-reseau-aws-transit-gateway)](https://github.com/stevymonkam/Project-reseau-aws-transit-gateway)  
 
